@@ -19,6 +19,7 @@ build video: https://youtu.be/VZ1lAV-ThZo
 ## notes
 - pcb production files can be found in mintboard/pcb/production
 - bom files were created for jlcpcb's parts library in 2023; double check correct components before ordering
+- use the provided .uf2 file to flash the nice!nano, or build your own firmware if you want. the zmk build files were made for an older version of zmk so they will likely not work without some modification.
 
 ## disclaimer
 I do not sell any products, and I am not affiliated with any vendors who claim to sell my designs. if you choose to support these vendors, I am not responsible for any issues you may encounter with them.
