@@ -1,0 +1,6 @@
+if SHIELD_MINTBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "mintboard"
+
+endif
