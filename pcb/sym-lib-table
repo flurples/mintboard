@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name button1)(type Legacy)(uri ${KIPRJMOD}/PTS_647_SM38_SMTR2_LFS_KiCad/PTS_647_SM38_SMTR2_LFS.lib)(options "")(descr ""))
+  (lib (name onoff1)(type Legacy)(uri ${KIPRJMOD}/OS202011MA0QN1_KiCad/KiCAD/2023-11-16_18-53-18.lib)(options "")(descr ""))
+)

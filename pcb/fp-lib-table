@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
+  (lib (name onoff1)(type KiCad)(uri ${KIPRJMOD}/OS202011MA0QN1_KiCad/KiCAD/footprints.pretty)(options "")(descr ""))
+  (lib (name button1)(type KiCad)(uri ${KIPRJMOD}/PTS_647_SM38_SMTR2_LFS_KiCad)(options "")(descr ""))
+)
