@@ -19,3 +19,11 @@ build video: https://youtu.be/VZ1lAV-ThZo
 ## notes
 - pcb production files can be found in mintboard/pcb/production
 - bom files were created for jlcpcb's parts library in 2023; double check correct components before ordering
+
+## disclaimer
+I do not sell any products, and I am not affiliated with any vendors who claim to sell my designs. if you choose to support these vendors, I am not responsible for any issues you may encounter with them.
+
+## gallery
+<img width="4032" height="2268" alt="IMG_0048" src="https://github.com/user-attachments/assets/bcf44ffb-dff9-4f30-8b0e-fd3ac95503a1" />
+<img width="4032" height="2268" alt="IMG_0054" src="https://github.com/user-attachments/assets/61ccc50c-789a-4464-b26d-c30bbded260c" />
+<img width="1920" height="1080" alt="IMG_0047" src="https://github.com/user-attachments/assets/674c6c81-2969-4397-b3bb-555d6a1cebba" />
